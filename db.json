@@ -1,0 +1,56 @@
+{
+  "categories":[
+    {
+      "id": 0,
+      "name":"category-01",
+      "price":"INR 500/KG"
+    },
+    {
+      "id": 2,
+      "name":"category-02",
+      "price":"INR 500/KG"
+    },
+    {
+      "id": 3,
+      "name":"category-03",
+      "price":"INR 500/KG"
+    },
+    {
+      "id": 4,
+      "name":"category-04",
+      "price":"INR 500/KG"
+    },
+    {
+      "id": 5,
+      "name":"category-05",
+      "price":"INR 500/KG"
+    }
+  ],
+  "materials":[
+    {
+      "id": 0,
+      "name":"material-01",
+      "price":"INR 500/KG"
+    },
+    {
+      "id": 2,
+      "name":"material-02",
+      "price":"INR 500/KG"
+    },
+    {
+      "id": 3,
+      "name":"material-03",
+      "price":"INR 500/KG"
+    },
+    {
+      "id": 4,
+      "name":"material-04",
+      "price":"INR 500/KG"
+    },
+    {
+      "id": 5,
+      "name":"material-05",
+      "price":"INR 500/KG"
+    }
+  ]
+}
